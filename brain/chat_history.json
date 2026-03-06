@@ -8,5 +8,10 @@
     "role": "user",
     "content": "Hãy nâng cấp văn phong cho đoạn văn sau để chuyên nghiệp và trang trọng hơn: Cơ bản thống nhất với nội dung Tờ trình. Đề nghị Ban Xây dựng Đảng Đảng ủy căn cứ vào góp ý của các đồng chí Ban Thường vụ Đảng ủy và yêu cầu nhiệm vụ, công việc thực tế tại địa phương để hoàn chỉnh, trình ký ban hành.",
     "timestamp": "2026-03-06T15:36:05.800Z"
+  },
+  {
+    "role": "user",
+    "content": "Hãy trích xuất các mốc thời gian và nhiệm vụ cần thực hiện từ nội dung sau để lập lịch nhắc việc: ",
+    "timestamp": "2026-03-06T15:38:47.142Z"
   }
 ]
