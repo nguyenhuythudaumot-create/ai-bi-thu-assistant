@@ -83,5 +83,10 @@
     "role": "user",
     "content": "biết ngày sinh nhật của nguyễn minh huy không?",
     "timestamp": "2026-03-07T14:51:07.623Z"
+  },
+  {
+    "role": "user",
+    "content": "biết ngày sinh nhật của Nguyễn Minh Huy không?",
+    "timestamp": "2026-03-07T14:52:33.419Z"
   }
 ]
