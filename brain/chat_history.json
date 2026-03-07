@@ -98,5 +98,10 @@
     "role": "user",
     "content": "sinh nhật của Nguyễn Minh Huy là ngày 06/08/1988, hãy nhớ nhé",
     "timestamp": "2026-03-07T14:54:49.132Z"
+  },
+  {
+    "role": "model",
+    "content": "Thưa Bí thư, tôi đã ghi nhận và cập nhật thông tin vào bộ nhớ hệ thống.\n\n**Xác nhận thông tin cán bộ:**\n*   **Họ và tên:** Nguyễn Minh Huy\n*   **Ngày sinh:** 06/08/1988\n*   **Ghi chú:** Thông tin này hoàn toàn trùng khớp với dữ liệu quản lý nhân sự mà tôi đang lưu trữ (trong cơ sở dữ liệu là `1988-08-05T17:00:00.000Z`, tương ứng với ngày 06/08 theo giờ Việt Nam).\n\n**Tham mưu thực hiện:**\nĐể công tác chăm lo đời sống chính trị và tinh thần cho các đồng chí trong Ban Chấp hành Đảng bộ (hiện có 31 đồng chí) được chu đáo, tôi sẽ:\n\n1.  **Lập lịch nhắc việc:** Tự động đưa ngày 06/08 vào danh mục \"Sự kiện quan trọng\" hàng năm.\n2.  **Dự thảo thông điệp:** Đến ngày này, tôi sẽ chủ động soạn sẵn nội dung chúc mừng ngắn gọn để Bí thư có thể gửi qua Zalo hoặc SMS cho đồng chí Huy, thể hiện sự quan tâm sát sao của người đứng đầu cấp ủy.\n\nBí thư có muốn tôi rà soát lại toàn bộ danh sách ngày sinh của các đồng chí còn lại trong Ban Chấp hành để lập kế hoạch chúc mừng cho cả năm 2026 không ạ?",
+    "timestamp": "2026-03-07T14:54:58.670Z"
   }
 ]
