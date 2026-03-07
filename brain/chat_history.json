@@ -123,5 +123,10 @@
     "role": "model",
     "content": "Thưa Bí thư,\n\nQua rà soát dữ liệu trong hệ thống quản lý danh sách cán bộ hiện có (hiện đang lưu trữ chi tiết 21 đồng chí trên tổng số 31 đồng chí trong BCH Đảng bộ), tôi **chưa tìm thấy** thông tin về đồng chí nào có tên là **\"Lợi\"** hay biệt danh **\"Chú 8 Lợi\"**.\n\nCó thể xảy ra các trường hợp sau:\n1. **Dữ liệu chưa đầy đủ:** Đồng chí \"8 Lợi\" có thể nằm trong số 10 thành viên Ban Chấp hành còn lại chưa được cập nhật thông tin chi tiết vào danh sách số hóa này.\n2. **Cán bộ lão thành/Hưu trí:** Nếu đây là một cán bộ lão thành hoặc nguyên lãnh đạo địa phương không nằm trong danh sách BCH đương nhiệm, thông tin có thể nằm ở tệp dữ liệu khác (ví dụ: Danh sách Đảng viên nhận Huy hiệu Đảng).\n\n**Đề xuất của Trợ lý:**\n* Nếu Bí thư có họ tên đầy đủ hoặc đơn vị công tác của chú, vui lòng cung cấp để tôi cập nhật ngay vào hệ thống nhằm phục vụ công tác dân vận và thăm hỏi của Đảng ủy.\n* Bí thư cũng có thể giao **Văn phòng Đảng ủy** rà soát lại sổ tay danh bạ cán bộ qua các thời kỳ để có thông tin chính xác nhất.\n\nTôi luôn sẵn sàng hỗ trợ cập nhật dữ liệu này để lịch nhắc việc của Bí thư không bỏ sót các ngày kỷ niệm quan trọng!",
     "timestamp": "2026-03-07T15:02:31.437Z"
+  },
+  {
+    "role": "user",
+    "content": "còn Bác Nguyễn Minh Triết",
+    "timestamp": "2026-03-07T15:02:51.716Z"
   }
 ]
