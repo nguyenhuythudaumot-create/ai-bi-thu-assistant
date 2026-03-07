@@ -1,7 +1,20 @@
 {
   "knowledge": [
-    "văn bản chỉ đạo nên bắt đầu bằng 'Giao cơ quan ABC tham mưu\"",
-    "báo cáo nên có 4 phần: đánh giá, kết quả, hạn chế, nhiệm vụ",
-    "Hiện tại BCH Đảng bộ có 31 người"
+    {
+      "content": "văn bản chỉ đạo nên bắt đầu bằng 'Giao cơ quan ABC tham mưu\"",
+      "tags": []
+    },
+    {
+      "content": "báo cáo nên có 4 phần: đánh giá, kết quả, hạn chế, nhiệm vụ",
+      "tags": []
+    },
+    {
+      "content": "Hiện tại BCH Đảng bộ có 31 người",
+      "tags": []
+    },
+    {
+      "content": "[Smart-Extract] - **Nhân sự:** Nguyễn Thu Cúc.\n- **Chức vụ:** Bí thư Đảng ủy, Chủ tịch HĐND phường Thủ Dầu Một.",
+      "tags": []
+    }
   ]
 }
