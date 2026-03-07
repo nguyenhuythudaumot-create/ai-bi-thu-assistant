@@ -153,5 +153,10 @@
     "role": "model",
     "content": "Báo cáo đồng chí, hôm nay là ngày **07/03/2026**. Dựa trên dữ liệu nhân sự mà tôi đang quản lý, tôi xin cập nhật các đồng chí có sinh nhật sắp tới trong tháng 3 và tháng 4 như sau:\n\n### 🎂 Danh sách sinh nhật sắp tới:\n\n| STT | Họ và Tên | Ngày sinh | Ghi chú |\n|:---:|:---|:---:|:---|\n| **1** | **Nguyễn Thị Thanh Tuyền** | **24/03** | Còn 17 ngày nữa |\n| **2** | **Hồ Trung Tín** | **16/04** | Sắp tới trong tháng 4 |\n| **3** | **Đỗ Thị Thanh Sang** | **25/04** | Sắp tới trong tháng 4 |\n| **4** | **Lê Minh Trí** | **28/04** | Sắp tới trong tháng 4 |\n\n---\n\n### 💡 Tham mưu cho Văn phòng:\nĐể thắt chặt tình đoàn kết trong nội bộ Đảng bộ phường Thủ Dầu Một, tôi xin đề xuất:\n\n1.  **Chúc mừng gần nhất:** Đối với đồng chí **Nguyễn Thị Thanh Tuyền** (sinh nhật ngày 24/03), đồng chí có muốn tôi soạn sẵn một nội dung chúc mừng ngắn gọn, ấm áp để gửi qua Zalo hoặc chuẩn bị hoa/quà từ phía Đảng ủy không?\n2.  **Nhắc lịch:** Tôi đã ghi nhận các ngày này vào lịch nhắc việc thông minh để thông báo cho đồng chí trước 01 ngày.\n\n**Đồng chí có cần tôi trích xuất thêm thông tin liên lạc (số điện thoại) của đồng chí Tuyền để tiện liên hệ không ạ?**",
     "timestamp": "2026-03-07T15:06:09.253Z"
+  },
+  {
+    "role": "user",
+    "content": "bạn biết Lê HỒng Quân không?",
+    "timestamp": "2026-03-07T15:31:57.248Z"
   }
 ]
