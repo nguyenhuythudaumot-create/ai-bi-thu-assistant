@@ -53,5 +53,10 @@
     "role": "user",
     "content": "sinh nhật của Lê Hồng Quân ngày nào?",
     "timestamp": "2026-03-07T14:26:28.519Z"
+  },
+  {
+    "role": "model",
+    "content": "Thưa đồng chí Bí thư,\n\nQua rà soát dữ liệu nhân sự hiện có của Đảng ủy phường (bao gồm danh sách 31 đồng chí trong Ban Chấp hành Đảng bộ) và các thông tin đã được lưu trữ trong hệ thống tham mưu, tôi **chưa có thông tin** về ngày sinh của đồng chí **Lê Hồng Quân**.\n\nĐể đảm bảo công tác quản lý cán bộ và thực hiện chế độ chính sách (như chúc mừng sinh nhật, thăm hỏi) được chính xác, đồng chí vui lòng:\n1.  **Cung cấp danh sách trích ngang** của đồng chí Lê Hồng Quân (nếu là cán bộ mới hoặc nhân sự thuộc các chi bộ trực thuộc).\n2.  **Hoặc cho phép tôi kết nối với bộ phận Văn phòng Đảng ủy** để cập nhật hồ sơ lý lịch trích ngang của các đồng chí còn lại trong hệ thống.\n\nSau khi có dữ liệu, tôi sẽ tự động thiết lập lịch nhắc việc để đồng chí chủ động trong các hoạt động đối nội. Ngay khi có thông tin, tôi sẽ cập nhật vào mục \"Nhân sự\" để phục vụ các báo cáo sau này.",
+    "timestamp": "2026-03-07T14:26:38.411Z"
   }
 ]
