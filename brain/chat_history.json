@@ -38,5 +38,10 @@
     "role": "model",
     "content": "Báo cáo Bí thư, tôi đã tiếp nhận và cập nhật thông tin nhân sự này vào hệ thống cơ sở dữ liệu tham mưu. \n\nDưới đây là thông tin chi tiết đã được lưu trữ:\n\n### 📋 THÔNG TIN NHÂN SỰ LÃNH ĐẠO\n\n| Tiêu chí | Nội dung ghi nhận |\n| :--- | :--- |\n| **Họ và tên** | **Nguyễn Thu Cúc** |\n| **Chức vụ Đảng** | Bí thư Đảng ủy |\n| **Chức vụ Chính quyền** | Chủ tịch Hội đồng nhân dân (HĐND) |\n| **Đơn vị công tác** | Phường Thủ Dầu Một |\n| **Trạng thái** | Đang đương nhiệm |\n\n---\n\n### 💡 Ghi chú của Trợ lý AI:\n1.  **Tự động hóa văn bản:** Từ nay, trong các bản thảo báo cáo, tờ trình hoặc các văn bản liên quan đến công tác Đảng và HĐND tại đơn vị này, tôi sẽ tự động áp dụng danh xưng và chức vụ của đồng chí Nguyễn Thu Cúc để đảm bảo tính chính xác và trang trọng.\n2.  **Kiểm tra quy định:** Tôi sẽ đối chiếu các văn bản ký tên đồng chí Nguyễn Thu Cúc với các quy định về thẩm quyền ký ban hành của Bí thư và Chủ tịch HĐND để tránh các sai sót về thể thức.\n3.  **Lưu ý địa danh:** Tôi ghi nhận đơn vị là **\"Phường Thủ Dầu Một\"** theo yêu cầu của Bí thư (mặc dù thông thường Thủ Dầu Một là cấp Thành phố trực thuộc tỉnh). Nếu đây là tên gọi đặc thù hoặc có sự thay đổi về địa giới hành chính, Bí thư vui lòng cho biết thêm để tôi cập nhật đồng bộ các văn bản liên quan.\n\nBí thư có muốn tôi bổ sung thêm thông tin về **số điện thoại liên lạc** hoặc **lịch công tác trọng tâm** của đồng chí Cúc để thuận tiện cho việc nhắc lịch không ạ?",
     "timestamp": "2026-03-07T05:00:32.230Z"
+  },
+  {
+    "role": "user",
+    "content": "nguyễn thu cúc là ai",
+    "timestamp": "2026-03-07T05:01:33.749Z"
   }
 ]
