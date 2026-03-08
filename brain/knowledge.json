@@ -2,25 +2,30 @@
   "knowledge": [
     {
       "content": "văn bản chỉ đạo nên bắt đầu bằng 'Giao cơ quan ABC tham mưu\"",
-      "tags": []
+      "tags": [],
+      "id": "k-0-1772935345799"
     },
     {
       "content": "báo cáo nên có 4 phần: đánh giá, kết quả, hạn chế, nhiệm vụ",
-      "tags": []
+      "tags": [],
+      "id": "k-1-1772935345799"
     },
     {
       "content": "Hiện tại BCH Đảng bộ có 31 người",
-      "tags": []
-    },
-    {
-      "content": "[Smart-Extract] - **Nhân sự:** Nguyễn Thu Cúc.\n- **Chức vụ:** Bí thư Đảng ủy, Chủ tịch HĐND phường Thủ Dầu Một.",
-      "tags": []
+      "tags": [],
+      "id": "k-2-1772935345799"
     },
     {
       "content": "Đồng chí Nguyễn Thu Cúc là Bí thư Đảng uỷ phường Thủ Dầu Một",
       "tags": [
         ""
-      ]
+      ],
+      "id": "k-4-1772935345799"
+    },
+    {
+      "content": "[Smart-Extract] - **Nhân sự:** Nguyễn Thu Cúc.\n- **Chức vụ:** Bí thư Đảng ủy, Chủ tịch HĐND phường Thủ Dầu Một.",
+      "tags": [],
+      "id": "k-3-1772935345799"
     }
   ]
 }
