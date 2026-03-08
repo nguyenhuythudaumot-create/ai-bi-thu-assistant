@@ -163,5 +163,10 @@
     "role": "model",
     "content": "Chào đồng chí, với tư cách là **Trợ lý Chánh Văn phòng Đảng ủy AI**, tôi đã rà soát trong hệ thống quản lý dữ liệu nhân sự của Đảng bộ.\n\nTôi xác nhận có thông tin về đồng chí **Lê Hồng Quân** trong danh sách quản lý. Dưới đây là trích xuất thông tin chi tiết:\n\n### 📋 Thông tin nhân sự: Lê Hồng Quân\n\n| Tiêu chí | Nội dung chi tiết |\n| :--- | :--- |\n| **Họ và tên** | **Lê Hồng Quân** |\n| **Ngày sinh** | 12/11/1997 |\n| **Số CCCD** | 74097006479 |\n| **Số điện thoại** | 0982.106.167 |\n| **Phạm vi quản lý** | Đảng bộ phường Thủ Dầu Một |\n\n---\n\n### 💡 Tham mưu thêm:\nĐồng chí Lê Hồng Quân thuộc nhóm nhân sự trẻ trong hệ thống (sinh năm 1997). Nếu đồng chí cần tôi hỗ trợ các việc sau liên quan đến nhân sự này, hãy cho tôi biết:\n1. **Soạn thảo văn bản:** Dự thảo quyết định điều động, khen thưởng hoặc phân công nhiệm vụ cho đồng chí Quân.\n2. **Kết nối:** Chuẩn bị nội dung tin nhắn Zalo/SMS để đồng chí Bí thư (Nguyễn Thu Cúc) chỉ đạo công việc trực tiếp cho đồng chí Quân.\n3. **Phân tích:** Đánh giá cơ cấu độ tuổi trong Ban Chấp hành (hiện có 31 người) để tham mưu công tác quy hoạch cán bộ trẻ.\n\nĐồng chí có cần trích xuất thêm lịch sử công tác hoặc các tài liệu liên quan đến đồng chí Quân không ạ?",
     "timestamp": "2026-03-07T15:32:05.309Z"
+  },
+  {
+    "role": "user",
+    "content": "xin chào",
+    "timestamp": "2026-03-08T01:54:20.794Z"
   }
 ]
